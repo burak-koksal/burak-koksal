@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/burakperkusyon" target="blank"><img src="https://img.shields.io/twitter/follow/burakperkusyon?logo=twitter&style=for-the-badge" alt="burakperkusyon" /></a> </p>
 
-- 🔭 I’m currently working on Db Companion
+- 🔭 I’m currently working on [Db Companion](https://play.google.com/store/apps/details?id=com.dbcompanion&hl=tr)
 
 - 🌱 I’m currently learning **Nodejs, graphql,**
 
@@ -38,7 +38,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/burakkoksal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="burakkoksal" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=burak-koksal&show_icons=true&locale=en&layout=compact" alt="burak-koksal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burak-koksal&show_icons=true&locale=en" alt="burak-koksal" /></p>
