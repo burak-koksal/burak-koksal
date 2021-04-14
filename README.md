@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">Software & React Native Developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=burak-koksal" alt="burak-koksal" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/burakperkusyon" target="blank"><img src="https://img.shields.io/twitter/follow/burakperkusyon?logo=twitter&style=for-the-badge" alt="burakperkusyon" /></a> </p>
 
-- 🔭 I’m currently working on [Db Companion](https://play.google.com/store/apps/details?id=com.dbcompanion&hl=tr)
+- 🔭 I’m currently working on Db Companion
 
 - 🌱 I’m currently learning **Nodejs, graphql,**
 
