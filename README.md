@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/burakperkusyon" target="blank"><img src="https://img.shields.io/twitter/follow/burakperkusyon?logo=twitter&style=for-the-badge" alt="burakperkusyon" /></a> </p>
 
-- 🔭 I’m currently working on [Db Companion](https://play.google.com/store/apps/details?id=com.dbcompanion&hl=tr)
+- 🔭 I’m currently working on [Teknosa](https:www.teknosa.com)
 
 - 🌱 I’m currently learning **Nodejs, graphql,**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/burakperkusyon/](https://www.linkedin.com/in/burakperkusyon/)
 
-- 💬 Ask me about **react, css, html , react native, javascript, redux**
+- 💬 Ask me about **react native, javascript, redux**
 
-- 📫 How to reach me **burakperkusyon@gmail.com**
+- 📫 How to reach me **34burak44@gmail.com**
 
 - ⚡ Fun fact **I can say that I am a social person, compatible with teamwork, working carefully, thinking analytically and creatively. Discipline is an important requirement of my important professional business life, it is my most important power that can enable me to keep my promises and take one step in my business life.**
 
