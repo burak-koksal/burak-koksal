@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I can say that I am a social person, compatible with teamwork, working carefully, thinking analytically and creatively. Discipline is an important requirement of my important professional business life, it is my most important power that can enable me to keep my promises and take one step in my business life.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" color ='red'>
 <a href="https://codepen.io/burakperkusyon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="burakperkusyon" height="30" width="40" /></a>
 <a href="https://dev.to/burakkoksal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="burakkoksal" height="30" width="40" /></a>
 <a href="https://twitter.com/burakperkusyon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="burakperkusyon" height="30" width="40" /></a>
