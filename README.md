@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/burakperkusyon" target="blank"><img src="https://img.shields.io/twitter/follow/burakperkusyon?logo=twitter&style=for-the-badge" alt="burakperkusyon" /></a> </p>
 
-- 🔭 I’m currently working on [Teknosa](https:www.teknosa.com)
+- 🔭 I’m currently working on [Dinçer Lojistik](https:www.dincerlojistik.com.tr)
 
 - 🌱 I’m currently learning **Nodejs, graphql,**
 
